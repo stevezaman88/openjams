@@ -1,0 +1,376 @@
+nid,uuid,title,field_backline,field_contact_email,field_day,field_event_location,field_venue_name
+923,8a946827-d6db-4b57-bc90-8c74fdf71cac,Friday Night Jazz @ DI Coffee Bar,House rhythm section,,Fridays,214 East Davis Blvd Tampa FL 33606,DI Coffee Bar
+922,c84f1cd8-99d8-468d-b411-bcde0ab19a82,Open Mic @ Tom's Tavern Forest Hills,PA system provided,,Wednesdays,124 W Fletcher Ave Tampa FL 33612,Tom's Tavern Forest Hills
+921,a80e2f54-c8c3-4732-b66f-49d0e91f3e0c,Open Jam @ Pete's Place South,Backline available,,Tuesdays,4145 Henderson Blvd Tampa FL 33629,Pete's Place South
+920,02f9f05c-2af6-461b-be9a-f245d9f2ef97,Open Jam @ Thunderbay Bar,Full backline provided,,Tuesdays,4901 W Linebaugh Ave Tampa FL 33624,Thunderbay Bar
+924,e9ab6a9f-32bc-43d0-a30f-563cc43ea9d0,Monday Night Jazz Jam @ The Hangar,House band: drums bass keyboard,,Mondays,540 1st St SE St Petersburg FL 33701,The Hangar Restaurant & Flight Lounge
+913,fc4089f3-80c7-4826-ab0d-863da5642311,Open Mic Night @ Vangarde Arts,Drum kit - guitar amps - house PA system provided,,Thursdays,416 Pierce Street - Sioux City - IA 51101,Vangarde Arts
+914,073a214f-4ca6-439d-ad1f-978ac09319d6,Jam Session @ Lewis & Clark Interpretive Center,,,Thursdays,900 Larsen Park Road - Sioux City - IA 51103,Lewis & Clark Interpretive Center
+905,992eca90-09a6-427a-b335-7920df6e5d01,Jazz Jam @ Hay Camp Brewing Co.,House band provided,,First Tuesdays,601 Kansas City St Rapid City SD 57701,Hay Camp Brewing Co.
+906,290dadf4-2ff5-4843-a43a-117e4849ddd4,Emerging Performing Artists Open Mic @ Main Street Square,PA system provided,,First Fridays,512 Main St Rapid City SD 57701,Main Street Square
+907,9459e380-ae31-402e-bcfe-e11a01b211e7,Open Mic Night @ Aby's Rapid City,PA system provided,,Wednesdays,406 5th St Rapid City SD 57701,Aby's Rapid City
+889,2288c9ac-9607-41f9-938a-b6724bb680d9,Open Spike Night @ Cypress,PA System & Microphones Provided,,Wednesdays,761 S Virginia St Reno NV 89501,Cypress
+890,37cf7ad6-00b4-4e0a-aa94-db45fa7abcda,Songwriter Open Mic @ Mountain Music Parlor,Small PA System Provided,,Fourth Wednesdays of the month,735 S Center St Reno NV 89501,Mountain Music Parlor
+891,898c1560-b062-4455-a3fc-beb8dd8307a6,Bluegrass Jam Class @ Mountain Music Parlor,All Acoustic Instruments Welcome,,Monthly - specific day varies,735 S Center St Reno NV 89501,Mountain Music Parlor
+892,4caad1b0-00cf-4442-9f18-61463b192150,Old Time Jam @ Mountain Music Parlor,Fiddles Mandolins Guitars Banjos Welcome,,Monthly - specific day varies,735 S Center St Reno NV 89501,Mountain Music Parlor
+893,840599b9-97b1-462e-8b61-1fe26d3ee946,Mighty Mike's Blues & Old School Country Jam @ Mountain Music Parlor,Small PA - Acoustic Instruments Preferred,,Monthly - specific day varies,735 S Center St Reno NV 89501,Mountain Music Parlor
+894,23ba2c75-af76-4b8b-a93c-46b441863e1b,Open Mic Night @ Holland Project,PA System Provided,,Monthly - check schedule,140 Vesta St Reno NV 89502,Holland Project
+895,b8377010-c663-4ac0-b122-a2cff873185b,Monday Night Poetry @ Shim's Tavern,PA System Provided,,Mondays,125 W 3rd St Reno NV 89501,Shim's Tavern
+897,19bf9f4f-80ac-432b-8894-21fde4aeb99b,Singer-Songwriter Open Mic @ Shim's Tavern,Small PA System Provided,,Third Thursdays of the month,125 W 3rd St Reno NV 89501,Shim's Tavern
+898,59f0d452-7ce2-4372-b4f0-7c2d8630c6db,Open Mic Night @ 10 Torr Distilling & Brewing,PA System Provided,,First Tuesdays of the month,490 Mill St Reno NV 89502,10 Torr Distilling & Brewing
+896,8ef0520e-6ba6-41d8-b5b2-47852fd706bc,Third Thursday Rock Jam @ Shim's Tavern,PA System - Bring Your Instruments,,Third Thursdays of the month,125 W 3rd St Reno NV 89501,Shim's Tavern
+879,b9eff091-5318-4c95-b72c-088b9905a040,Music Open Mic @ Hops On Birch,PA System Provided,,Wednesdays,22 E Birch Ave #2 Flagstaff AZ 86001,Hops On Birch
+881,07c306e1-e43d-4089-b585-9e3d4ff728da,Musicians Open Mic @ AWA Kava Bar,Acoustic Friendly,,Fridays,218 S San Francisco St Flagstaff AZ 86001,AWA Kava Bar
+882,16755fd4-3dfb-4e50-bd47-5319ed78876a,Bluegrass Jam @ Wheeler Park / Flagstaff Mall,Acoustic Instruments Welcome,,Wednesdays,Downtown Flagstaff / Flagstaff Mall Flagstaff AZ 86001,
+883,ef48a1a4-b97b-45d1-bc84-6c51ccd516bd,Live Music @ Dark Sky Beer Garden,Varies by Artist,,Fridays,103 W Birch Ave Flagstaff AZ 86001,Dark Sky Brewing - Beer Garden
+880,7f39cb1c-7d78-4f9d-9448-eb60a3903be7,Open Mic Night @ Drinking Horn Mead Hall,Bring Your Instrument,,Second Tuesdays,108 E Route 66 Flagstaff AZ 86004,Drinking Horn Mead Hall
+868,2fbab732-2355-4725-8dee-abe7c53d1a23,Open Mic @ The Western Horseman Club,PA System Provided,,Wednesdays,2501 E Interstate 40 Hwy Amarillo TX 79104,The Western Horseman Club
+869,96c14f3f-af27-4272-a488-d6a27fd0150d,Open Mic @ The 806 Coffee + Lounge,Acoustic Setup Available,,2nd and 4th Wednesdays,2812 SW 6th Ave Amarillo TX 79106,The 806 Coffee + Lounge
+870,de3621fa-ca3c-42c8-912f-cdb7e9f31e26,Jazz Jam @ The 806 Coffee + Lounge,Acoustic Setup Available,,Monthly,2812 SW 6th Ave Amarillo TX 79106,The 806 Coffee + Lounge
+871,a85a5865-dd5d-4cb3-b476-bcc905ec6249,Open Mic Night @ Shark Beach,Outdoor Stage Setup,,Varies,1505 E Farm to Market Rd 1151 Amarillo TX 79118,Shark Beach
+872,56bf3259-d8ce-493d-8303-01b0ea4d77f7,Karaoke Night @ Shark Beach,PA System and Karaoke Equipment,,Thursdays (Seasonal),1505 E Farm to Market Rd 1151 Amarillo TX 79118,Shark Beach
+873,3a118ddd-7f9a-4af3-9547-eb14206567a8,Karaoke Night @ The Lumberyard,Full Sound System,,Thursdays,850 N 23rd St Canyon TX 79015,The Lumberyard
+858,f2a53832-2a55-4602-848e-a5ae60834c9e,Open Mic @ Vultures,PA System and Sound Equipment,,Mondays,2100 E Platte Ave Colorado Springs CO 80909,Vultures
+859,1170826a-02f7-4b68-8663-2031d9c1d614,Open Mic @ Kinfolks,Stage and Sound System,,Wednesdays,950 Manitou Ave Manitou Springs CO 80829,Kinfolks
+860,7c5a650c-6139-44de-8f98-60e14c9ad1be,Open Mic and Jam @ Buffalo Lodge Bicycle Resort,Acoustic Instruments Welcome,,2nd and 4th Wednesdays,2 El Paso Blvd Colorado Springs CO 80904,Buffalo Lodge Bicycle Resort
+861,8a4a6477-35e8-4be5-9e24-cff7f4db954a,Bluegrass Jam @ Buffalo Lodge Bicycle Resort,Acoustic Instruments,,Sundays,2 El Paso Blvd Colorado Springs CO 80904,Buffalo Lodge Bicycle Resort
+863,9af6f662-17a3-471e-a1e7-ad2f9b1e609d,Black Rose Bluegrass Jams,Acoustic Instruments,,1st and 3rd Mondays plus other days,4625 Ranch Drive Colorado Springs CO 80909,Varies
+848,1884bce6-2e20-47b7-9991-2ce98c72d58f,Jazz Jam @ Craft Local,Bring Your Instrument,,Thursdays,2501 Montana Avenue Billings MT 59101,Craft Local
+847,02a401e3-2d02-4b4e-9d44-0b37f76f7f0d,Singer-Songwriter Open Mic @ Craft Local,PA System Provided,,Wednesdays,2501 Montana Avenue Billings MT 59101,Craft Local
+839,cfe4c078-3029-4755-852a-efdbbb1f528a,Blue Monday @ Hal & Mal's,Full band provided,,Mondays,200 Commerce Street Jackson MS 39201,Hal & Mal's
+840,75de565b-02b9-42e3-9ca0-2e5d215e8a25,Tuesday Night Jazz @ Hal & Mal's,,,Tuesdays,200 Commerce Street Jackson MS 39201,Hal & Mal's
+841,a027b12b-9444-4012-8812-0797db85c19e,Bluegrass Night @ Hal & Mal's,Acoustic bluegrass setup,,Fridays (select),200 Commerce Street Jackson MS 39201,Hal & Mal's
+842,d7261179-2b21-432f-8bf6-e1b6fc4e8db0,Open Mic + Band @ Soulé Coffee,Full band provided,,Sundays (monthly),2943 Old Canton Road Suite E Jackson MS 39216,Soulé Coffee and Bubble Tea
+834,91e6df20-4c98-40f1-8845-8584d6559ac0,Open Mic @ New Moon Bar & Grill,PA System Provided,,Thursdays,1343 Dalraida Rd Montgomery AL 36109,New Moon Bar & Grill
+819,8be9b28d-a5a7-4dcc-b605-97829643ac92,Old-Time Jam @ Jack of the Wood,Traditional instruments welcome,,Wednesdays,95 Patton Ave - Asheville - NC 28801,Jack of the Wood
+820,4b2eba65-afb7-47ff-95dd-e07969c357e0,Bluegrass Jam @ Jack of the Wood,Bring your instrument,,Thursdays,95 Patton Ave - Asheville - NC 28801,Jack of the Wood
+821,a543c83a-7e80-44a3-aa6c-d6656ac76fb1,Open Bluegrass Jam @ Jack of the Wood,Bring your instrument,,Thursdays,95 Patton Ave - Asheville - NC 28801,Jack of the Wood
+822,00ebb664-08a9-4991-850b-6fcfd690e5a3,Traditional Irish Music Session @ Jack of the Wood,Traditional Irish instruments,,Sundays,95 Patton Ave - Asheville - NC 28801,Jack of the Wood
+823,ab1edce1-b1c5-49d0-8ade-12a86e23cd9e,True Home Open Mic @ Flood Gallery,PA provided,,Thursdays,802 Fairview Rd Suite 1200 - Asheville - NC 28803,Flood Gallery Fine Art Center
+824,b57a3f9a-241c-4265-905a-c1bc9e37ec53,Open Mic @ Twin Leaf Brewery,PA and mic provided,,Wednesdays,144 Coxe Ave - Asheville - NC 28801,Twin Leaf Brewery
+825,100aac72-4c02-4754-9e21-2cd4098ca7a6,Jazz Jam @ Ginger's Revenge,Bring your instrument,,Sundays,829 Riverside Dr Suite 100 - Asheville - NC 28801,Ginger's Revenge
+826,1490035e-a606-4971-8e71-4466a4b91be6,Jazz Jam @ LEAF Global Arts,Educational setting,,Fridays,19 Eagle St Suite 120 - Asheville - NC 28801,LEAF Global Arts
+827,3910242f-9c36-4bf4-8c01-f77b73843f16,Jazz Showcase & Open Jam @ Shamrock Irons,Bring your instrument,,Thursdays,"4 College St, Asheville, NC 28801",Shamrock Irons
+828,928846f5-875f-421a-85ff-658ed8e4001a,Musicians in the Round @ Urban Orchard,Performance setup provided,,Thursdays,"24 Buxton Ave, Asheville, NC 28801",Urban Orchard
+829,81e7b8ff-7463-4f21-983a-3eee2be36213,Open Mic @ One World Brewing Downtown,PA system provided,,Thursdays,10 Patton Ave - Asheville - NC 28801,One World Brewing Downtown
+801,18e106f3-c59d-45c4-995c-9285dc3b3f44,Say What Open Mic @ Coffee Underground,PA System Provided,,Sundays,1 East Coffee Street Greenville SC 29601,Coffee Underground
+802,18087d80-7340-42b0-8c94-3112a03247a8,Open Blues Jam @ Chicora Alley,Drums and Bass Provided,,Wednesdays,608 S Main St Unit B Greenville SC 29601,Chicora Alley
+803,9dce288f-2204-4c0e-b0fd-297b9b74e3f7,Sunday Jazz Jam @ Fireforge Crafted Beer,House Band Provided,,Sundays,311 E Washington St Greenville SC 29601,Fireforge Crafted Beer
+804,f27e8675-de32-4a2b-8f8c-a3a2537992f8,Open Mic Jam @ 3 Friends Bar & Grill,Backing Band Provided,,Mondays,2801 Wade Hampton Blvd Taylors SC 29687,3 Friends Bar & Grill
+805,eee64d91-8d6e-44dc-a348-32ed49f8cc26,Open Mic Jam @ Golden Grove Farm & Brew,Basic Backline,,Mondays,115 Krim Rd Piedmont SC 29673,Golden Grove Farm & Brew
+806,b20ffb4b-8aa2-435d-800d-5788dcf177f9,Shane Pruitt Blues Jam @ Blues Boulevard Jazz,Basic Blues Backline,,First Tuesdays,300 River St Ste 203 Greenville SC 29601,Blues Boulevard Jazz
+807,69fdc1fc-79c6-4c83-9a0c-87aff6d18bcb,Open Jazz Jam @ Blues Boulevard Jazz,House Band Provided,,Select Dates,300 River St Ste 203 Greenville SC 29601,Blues Boulevard Jazz
+781,e71874c9-f2fe-400f-9078-70f5875cb4b4,Open Mic @ The Falcon Bar & Gallery,PA System provided,,Tuesdays,819 E Washington St Orlando FL 32801,The Falcon Bar & Gallery
+782,9aa0e04b-a623-4489-8f5c-449f6288bdf0,Open Mic @ Copper Rocket Pub,PA system and sound engineer provided - DI boxes available,,Tuesdays,106 Lake Ave Maitland FL 32751,Copper Rocket Pub
+784,102040c8-a83f-41e9-9506-fb6fec980e4f,Open Mic @ Z Co-Space & Clubhouse,PA system provided,,Wednesdays,1413 Haven Dr Orlando FL 32803,Z Co-Space & Clubhouse
+786,9d20f491-0c69-49b0-9c8b-d75089ef777a,Open Mic @ Fiddlers Green Irish Pub,PA system provided,,Thursdays,544 W Fairbanks Ave Winter Park FL 32789,Fiddlers Green Irish Pub
+773,46f8c50e-aba7-4b89-bab4-26adf435c753,Desert Bluegrass Association Jam @ Comanche Wells,Acoustic instruments welcome,,Fourth Thursdays,775 W Roger Rd #227 - Tucson - AZ 85705,Comanche Wells
+772,6d14588b-cd6b-4a7e-b9b8-a8fc4616cc04,Tucson Musicians Club Open Mic @ RJ's Frozen Cactus,PA System,,Mondays,5769 E Speedway Blvd - Tucson - AZ 85712,RJ's Frozen Cactus Sports Bar & Grill
+771,12e7fc0f-2895-4f4f-a728-58797feaf9c9,Open Mic @ Sky Bar,PA System,,Wednesdays,536 N 4th Ave - Tucson - AZ 85705,Sky Bar
+763,f376f079-6dbe-4cee-81ca-c2db9eba63b0,Open Mic @ Ruby Beach Brewing,PA System Provided,,Sundays,228 E Forsyth St; Jacksonville; FL 32202,Ruby Beach Brewing
+764,0329b01f-b825-4f73-9016-65e2cb1365b2,Blue Jay Jazz Jam @ Blue Jay Listening Room,PA System; Keyboard; Electric Bass and Amp; Drums; Guitar Amp,,Tuesdays,2457 S 3rd St; Jacksonville Beach; FL 32250,Blue Jay Listening Room
+765,3e9b6bf3-fc82-4fc8-8fb8-d29640b0fe22,Blue Jay Bluegrass Jam @ Blue Jay Listening Room,PA System; Acoustic Instruments Welcome,,Last Tuesday of Month,2457 S 3rd St; Jacksonville Beach; FL 32250,Blue Jay Listening Room
+748,6b0e42f2-65c5-4060-803d-cc72965da375,Open Mic @ Thank You Miami,PA System Provided,,Wednesdays,1701 West Flagler St Suite 101 Miami FL 33135,Thank You Miami Cocina & Beerhouse
+749,5a15170f-9a56-4866-98cf-2c2fc94f06d8,Jazz Jam @ Churchill's Pub,Full Backline,,Mondays,5501 NE 2nd Ave Miami FL 33137,Churchill's Pub
+751,f81178b0-48cf-4ee1-be68-c9294834984f,Jazz Jam @ The Fish House,Full Backline Piano Bass Drums,,Wednesdays,10000 SW 56th St Suite 41 Miami FL 33165,The Fish House
+752,64750863-1665-426a-be2e-a06629f4e4ef,Open Mic @ Tea & Poets,PA System Provided,,Wednesdays,5701 Sunset Dr Unit 126 South Miami FL 33143,Tea & Poets
+753,a8f42649-ddcc-41bc-bc18-ee0db154a9e1,Musicians Night @ Savage Labs,Full PA and Backline,,Tuesdays,2451 NW 5th Ave Miami FL 33127,Savage Labs Wynwood
+754,f9c76458-5f94-4af1-9e1a-2921437ae1c9,Live Band Karaoke @ Magic 13 Brewing,Live Band,,Wednesdays,340 NE 61st St Miami FL 33137,Magic 13 Brewing Co
+755,ab574ecd-4ba6-4b29-8348-f86b19c3a54f,Open Mic @ Vice City Kava,PA System Provided,,Mondays,2395 SW 22nd St Miami FL 33145,Vice City Kava
+756,49bfaf5a-796a-45df-9e2c-693e8a666b5c,Jazz Jam @ Vice City Kava,Full Backline,,Wednesdays,2395 SW 22nd St Miami FL 33145,Vice City Kava
+726,c519a997-dd6a-4679-9658-dcf9c42dd09d,Open Mic @ Nirvana Soul Coffee,PA System Provided,,Fridays,315 S 1st St San Jose CA 95113,
+728,a90d13c8-bb3e-43f8-b904-ca8c89d07be0,Blues Jam @ Poor House Bistro,Full backline provided,,Wednesdays,317 W St John St San Jose CA 95110,Poor House Bistro
+729,fc6dade2-c1e6-4fca-b915-80e0e2a3a70b,Blues Jam @ Narrative Fermentations,Drums bass guitar harmonica and vocal mics provided,,Sundays,101 E Alma Ave San Jose CA 95112,Narrative Fermentations
+730,b7fbf000-3443-4d3a-9c68-e374d8921572,Blues Jam @ Fuego Sports Bar & Club,Full backline provided,,Mondays,140 S Murphy Ave Sunnyvale CA 94086,Fuego Sports Bar & Club
+731,fd205a09-be6f-4dbe-b2e6-bcd883970c6b,Blues Jam @ Little Lou's BBQ,Full backline provided,,Thursdays,2455 South Winchester Blvd Campbell CA 95008,Little Lou's BBQ
+733,d69a5fa2-2037-461e-809d-d8333068b563,Open Mic @ First Unitarian Church,PA System Provided,,Second Saturdays,160 N 3rd St San Jose CA 95112,First Unitarian Church
+720,dfa26acd-dbeb-40ed-94b9-1f1be2fb4822,Open Mic & Karaoke @ Strummer's,PA System Provided,,Tuesdays,833 E Fern Ave Fresno CA 93728,Strummer's
+721,6c0d8010-0c72-4475-9e08-f603e096b9b2,Sunday Night Blues Jam @ Club One Casino,Provided for jam participants,,Sundays,3950 N Cedar Ave Fresno CA 93726,Club One Casino
+722,46df3106-1d18-4cd7-80ab-7cd903189b04,Jazz Jam Session @ Tap & Cellar,Varies - check with venue,,Saturdays,317 W Bedford Ave #101 Fresno CA 93711,Tap & Cellar
+709,4dfb952b-a290-4d7e-b8c1-5ad972ce6059,Open Mic @ Kulak's Woodshed,Piano - drums - guitars available,,Mondays,5230 1/2 Laurel Canyon Blvd - North Hollywood - CA 91607,Kulak's Woodshed
+710,25b1f235-f3e1-48b8-883f-f43a6ed0a9ad,Vocal Jazz Jam @ The World Stage,House band provided,,Sundays,4321 Degnan Blvd - Los Angeles - CA 90008,The World Stage Performance Gallery
+711,0668cb74-07d7-4ae9-b238-34a4b213b743,Instrumental Jazz Jam @ The World Stage,Bass and drums provided,,Thursdays,4321 Degnan Blvd - Los Angeles - CA 90008,The World Stage Performance Gallery
+712,4107b762-eadb-4e7a-b768-b6bdf712ac1c,Tuesday Happenings Jam @ Sam First,House band - Yamaha C7x grand piano,,Tuesdays,6171 W Century Blvd #180 - Los Angeles - CA 90045,Sam First
+715,423c514d-c800-44a5-807b-c536928c9d0e,Bluegrass Jam @ George Izay Park,Bring your own instruments,,Sundays,"1111 W Olive Ave, Burbank, CA 91506 (park) Jam @ W Clark Ave & N Griffith Park Dr",George Izay Park
+694,1c1c74f7-bc3b-4afd-94cf-df30a6369c41,Open Mic @ Club Passim,Vocal mics instrument mics cables DIs Korg keyboard,,Mondays,47 Palmer St Cambridge MA 02138,Club Passim
+695,0c09c533-65a1-4df6-b083-dedd483923a0,Open Mic & Jam @ The Bebop,PA system mics cables,,Thursdays,1116 Boylston St Boston MA 02215,The Bebop
+696,edb314a5-72a5-430d-85f4-dfc242826a16,Jazz Jam @ The Bebop,PA system mics cables,,Sundays,1116 Boylston St Boston MA 02215,The Bebop
+697,78db697f-e79c-4d0e-a447-f85a7061aec5,Monday Jazz Jam @ The Bebop,PA system mics cables,,Mondays,1116 Boylston St Boston MA 02215,The Bebop
+698,6fc32e06-9944-448d-a975-336d0c0dfd3f,Bluegrass Jam @ The Bebop,PA system mics cables,,Fridays,1116 Boylston St Boston MA 02215,The Bebop
+699,056a8a01-7ade-401a-be6d-cac9440ac5bd,Open Mic Challenge @ Lizard Lounge,Full PA system mics cables,,Mondays,1667 Massachusetts Ave Cambridge MA 02138,Lizard Lounge
+700,e2291181-0e77-4804-a593-ee3ea4b131c1,Open Mic @ Irish Village,Drumset guitar keyboard two mics,,Wednesdays,224 Market St Brighton MA 02135,Irish Village
+701,efdc8625-3ddd-4370-9026-899af6b53a04,Open Mic @ NEMPAC - Boston Public Market,PA system provided,,Fridays,100 Hanover St Boston MA 02108,Boston Public Market
+702,3e525f9a-cf3a-4b96-a9be-7600e54a4e53,Acoustic Open Mic @ Cantab Lounge,Full PA system mics,,Mondays,738 Massachusetts Ave Cambridge MA 02139,Cantab Lounge
+682,d781e82f-0909-4ca4-acd0-333db85440e2,Open Mic Jam Night @ Fitzgerald's Bar & Live Music Venue,Line-6 guitar amp Marshall guitar amp keyboard drum kit PA system,,Wednesdays,437 McCarty Rd Ste 101 San Antonio TX 78216,Fitzgerald's Bar & Live Music Venue
+683,cd89478e-b3c5-4e89-b86b-6ae92dec96b2,R&R Musicians Pro Jam @ Fitzgerald's Bar & Live Music Venue,Guitar amps keyboard drum kit PA system,,Wednesdays,437 McCarty Rd Ste 101 San Antonio TX 78216,Fitzgerald's Bar & Live Music Venue
+684,5e7128cc-a0cb-4a3f-a163-cbd3d9dcc251,Sunday Night Open Mic @ 502 Bar,PA System Provided,,Sundays,502 Embassy Oaks San Antonio TX 78216,502 Bar
+685,402f72a1-f380-4a9c-b7fe-556a3fa68f33,Blues Jam @ The Cove,Backline and PA equipment provided,,First Sundays,606 W Cypress St San Antonio TX 78212,The Cove
+686,e7fdb8cb-3720-47fc-9f3c-a696d2a35071,Jazz Jam @ Make My Day Lounge,,,Sundays,12114 Nacogdoches Rd San Antonio TX 78217,Make My Day Lounge
+672,e67116d9-0156-4f14-a2e9-2396a88d1b27,Open Mic @ Hub Cafe,PA system and equipment provided,,First & Third Thursdays,250 N 21st St Suite 3 Lincoln NE 68503,Hub Cafe
+675,fb1b418b-a51f-45a9-bb2f-afac06ffe9a8,Open Mic @ Bourbon Theatre,,,Mondays,1415 O St Lincoln NE 68508,Bourbon Theatre
+666,66a0e2e5-dd56-4cc5-b3c4-0879099750b7,Blues Tuesday Open Mic @ Carl's Place,,,Tuesdays,1620 Woodland Ave Des Moines IA 50309,Carl's Place
+665,0819e6cd-bd45-433c-b5e6-f87d2990c58a,CJC Jazz Jam Session @ The Cave DSM,Rhythm section provided,,First Sundays,1437 Walnut Street Des Moines IA 50309,The Cave DSM
+664,1c47f491-ecc2-4d44-8ee7-4487d7934912,Manic Monday Open Mic @ Lefty's Live Music,,,Mondays,2307 University Ave Des Moines IA 50311,Lefty's Live Music
+663,24bcd430-67ff-4690-962b-4a0bb1e39206,Open Mic Night @ The Slow Down Coffee Co.,,,Thursdays,3613 6th Ave Des Moines IA 50313,The Slow Down Coffee Co.
+659,27c8ac5f-98a7-4b84-8481-e6a6a67cfeb1,Bluegrass Brunch @ Mercury Lounge,PA System Provided,,Sundays,1747 S Boston Ave - Tulsa - OK 74119,Mercury Lounge
+660,84076800-4e8e-4a8f-b095-00d4e4d000d2,Pickin' in the Park @ The Gathering Place,Acoustic instruments welcome,,Varies,2650 S John Williams Way - Tulsa - OK 74114,The Gathering Place
+661,2e77de6f-8fa9-4ba4-a556-52c3780e6f53,Free Energy Jazz Jam @ LowDown,Yamaha C7 grand piano - bass amp - drum set - PA system provided,,2nd and 4th Wednesdays,108 N Detroit Ave - Tulsa - OK 74103,LowDown
+647,36eff9cf-6b3a-49cb-afef-eb01e0c98d70,Open Mic & Jam @ The Wormhole,Full backline (drums keys guitar bass). Many instruments available.,,Mondays,2307 Bull St Savannah GA 31401,The Wormhole
+648,d0e99439-5ff1-44ff-b38f-a5f27b509d13,Open Mic @ 208 Wine Bar,,,Thursdays,208 E Bay St Savannah GA 31401,208 Wine Bar
+649,bfb2b891-ece4-46de-a86e-09837c207e0c,Open Mic @ Warehouse Bar & Grille,,,Tuesdays,18 E River St Savannah GA 31401,Warehouse Bar & Grille
+650,5c4c7045-8acc-44fd-a39f-63df811b3e66,Open Mic @ El Rocko Lounge,,,Tuesdays,117 Whitaker St Savannah GA 31401,El Rocko Lounge
+651,1d89c70c-74a0-4108-b2e9-dfb716a5014a,Open Mic @ Mint to Be Mojito,,,Sundays,12 W State St Savannah GA 31401,Mint to Be Mojito Bar and Bites
+652,500c3d3b-9a80-4a6f-9e1c-414acf81f5d9,Open Mic/Talent Showcase @ The Sentient Bean,,,1st and 3rd Tuesdays,13 E Park Ave Savannah GA 31401,The Sentient Bean
+629,d93503d8-4d66-4a17-9386-0071f23b626f,Open Mic @ Front Street Taproom,PA System Provided,,Mondays,"614 Main Ave, Fargo, ND 58103",Front Street Taproom
+630,d3b88692-5be9-4c22-b49d-91239b46f51d,Amped Open Mic @ Troll Lounge,"Keys, Drums, Guitar, Ukulele",,Thursdays,"722 2nd Ave N, Fargo, ND 58102",Troll Lounge
+631,10e884b5-290e-4a88-8404-8bed0ed44401,Bluegrass Jam @ Troll Lounge,Acoustic Instruments Welcome,,Tuesdays,"722 2nd Ave N, Fargo, ND 58102",
+632,b8a641b3-69e5-49e9-a826-2c143c43d618,Open Mic @ Hope and Coffee,"PA, Mics, Cables Provided",,Saturdays,"1801 38th St S, Fargo, ND 58103",Hope and Coffee
+618,41c7430e-a9b9-4ce2-bf50-525e379ecb1b,Music Open Mic @ Dubliner Pub,PA System Provided,,Wednesdays,1205 Harney St Omaha NE 68102,Dubliner Pub
+619,055a5c7d-dc4f-471b-b10f-65fe593836af,Jazz Jam @ North Omaha Music and Arts,Varies by Night,,Mondays,2510 N 24th St Omaha NE 68110,North Omaha Music and Arts
+620,91ec2571-1c0b-4dba-a162-eabe7b8c1e0b,Underground Jam @ North Omaha Music and Arts,Varies by Night,,Wednesdays,2510 N 24th St Omaha NE 68110,North Omaha Music and Arts
+621,352dfa5d-ed87-4cd7-b8e4-0180403a738a,Open Mic @ The Nifty Bar,PA System Provided,,Wednesdays,4721 NW Radial Hwy Omaha NE 68104,The Nifty Bar
+622,61cbddca-57ad-475d-845e-0935d468e789,Open Mic @ Shakedown Street Tavern,PA System Provided,,Mondays,2735 N 62nd St Omaha NE 68104,Shakedown Street Tavern
+623,872c7fab-01f4-49d4-9466-c439ace0c724,Open Mic @ Brokedown Palace,PA System Provided,,Tuesdays,8805 Maple St Omaha NE 68134,Brokedown Palace
+603,6aa124f5-06f3-4970-98d0-abd61980d89e,Open Mic @ PAve,PA System Provided,,Tuesdays,130 S Phillips Ave Sioux Falls SD 57104,PAve
+604,80f08761-03c8-4f6e-8ba5-0c7953d33717,Open Mic @ Wiley's Bar,Guitar and keyboard cables PA system Shure SM58 microphone Bluetooth connectivity Music stands,,Tuesdays,330 N Main Ave Sioux Falls SD 57104,Wiley's Bar
+605,b560ce06-8fc9-4def-9ef0-96e8844cd878,Open Mic @ Corner Pub and Casino,Basic PA system,,Wednesdays,2408 E 6th St Sioux Falls SD 57103,Corner Pub and Casino
+606,a1181d5c-7e68-443e-8132-6f98e2e8f870,Live Music - The Heinous 3 @ DaDa Gastropub,Full backline provided,,Tuesdays,402 N Main Ave Sioux Falls SD 57104,DaDa Gastropub
+608,e197aa6e-3548-4692-a05f-2c052864533c,Open Mic Night @ Full Circle Book Co-op,Basic sound system provided,,Sundays,123 W 10th St Sioux Falls SD 57104,Full Circle Book Co-op
+589,e8c76b08-c086-46f1-ae2e-6b17154852d6,Portland Bluegrass Sunday Jam @ Artichoke Music,Acoustic instruments only,,Sundays (2nd and 4th),2007 SE Powell Blvd Portland OR 97202,Artichoke Music
+590,48f25e79-b8a4-4775-b632-ed1f699a463c,Acoustic Village Open Mic @ Artichoke Music,PA system acoustic instruments available,,Thursdays (every other),2007 SE Powell Blvd Portland OR 97202,Artichoke Music
+594,327041b8-9dce-418a-a7c6-bb61cca935d4,Monday Jazz Jam @ Produce Row Café,House band provided,,Tuesdays,204 SE Oak St Portland OR 97214,Produce Row Café
+595,223d7008-b232-4e24-bbb9-768d663df50c,Bluegrass Jam @ Hopworks Brewery - Powell Mothership,Acoustic instruments,,Thursdays,2944 SE Powell Blvd Portland OR 97202,Hopworks Brewery - Powell Mothership
+596,d09f99b3-8992-471a-95c0-80032b8ac259,Community Blues Jam @ Community Jams Studio,Full backline provided,,Saturdays (bi-monthly),2365 SW Cedar Hills Blvd Beaverton OR 97005,Community Jams Studio
+573,2ab3ca07-1e3f-4cd2-8f4a-af84ea280620,Jackson Hole Hootenanny @ Dornan's Spur Bar,Acoustic instruments only,,Mondays,12170 Dornan Rd Moose WY 83012,Dornan's Spur Bar
+574,b5ad85f8-c249-45d3-8c72-fb2b5448e2e3,Bluegrass Tuesdays @ Wort Hotel,Full backline provided,,Tuesdays,50 N Glenwood St Jackson WY 83001,Wort Hotel
+575,245f1c7f-9cec-407a-9256-c47ec4414abf,Open Mic Night @ The Virginian Saloon,PA system and basic backline,,Tuesdays,750 W Broadway St Jackson WY 83001,The Virginian Saloon
+576,0e5bcb4b-bacf-42f3-8910-a73a615e0ed9,Open Mic @ Pinky G's Pizzeria,Guitars and basic equipment available,,Mondays,50 W Broadway Ave Jackson WY 83001,Pinky G's Pizzeria
+577,b1961776-815d-4c2e-8682-d15a628cb5c7,Sunday Church @ Stagecoach Bar,Full band setup,,Sundays,5755 W Highway 22 Wilson WY 83014,Stagecoach Bar
+578,a57e104f-90ec-4628-91d4-a7dc54541193,Winter Hootenanny @ Wort Hotel,Acoustic only,,Mondays,50 N Glenwood St Jackson WY 83001,Wort Hotel - Silver Dollar Bar
+560,4ef826fc-7c77-419d-b111-01022181097c,Acoustic Open Mic Music Lab @ West Charleston Library,,,First Mondays,6301 W Charleston Blvd Las Vegas NV 89146,West Charleston Library
+561,6807a197-ec85-4afe-a541-afa33051695a,Level Up Tuesday Open Mic @ Paradise Place Jamaican Cuisine,Live Band Backing,,Tuesdays,6985 W Sahara Ave Suite 119 Las Vegas NV 89117,Paradise Place Jamaican Cuisine
+562,42b1bd50-3d51-4c42-833c-6e4bbe54aa8d,Eclectic Open Mic Showcase @ The Griffin,Acoustic-Friendly,,Sundays,511 Fremont St Las Vegas NV 89101,The Griffin
+563,700dcb8a-23d5-4887-b211-c69f2132c4de,Bluegrass & Old-Time Music Jam @ Centennial Hills Active Adult Center,Acoustic Instruments,,Tuesdays,6601 N Buffalo Dr Las Vegas NV 89131,Centennial Hills Active Adult Center
+564,4ddd740c-d29b-4ca7-8ff6-53b0f3b5b39a,Bluegrass Jam @ Bass Pro Shops,Acoustic Instruments,,Second and Fourth Saturdays,8200 Dean Martin Dr Las Vegas NV 89139,Bass Pro Shops
+548,6134d357-437f-41cd-a4e2-dfdf0f172b9d,Open Mic Night @ Sandia Music and Sound,,,Last Fridays,5105 Homestead Cir. N.W. Albuquerque NM 87120,Sandia Music and Sound
+547,9fa7ef18-7336-4642-858d-cb12cf5acc84,Open Mic Night @ Sunday Service Motor Co.,PA System; Keyboard; Microphone; Instrument Inputs,,Tuesdays,2701 4th St NW Albuquerque NM 87107,Sunday Service Motor Co.
+533,224deb8c-f2a5-4c35-a847-da55de228d18,Bluegrass Jam @ Gracie's,Full backline provided,,Tuesdays,326 S West Temple St Salt Lake City UT 84101,Gracie's
+534,64b79267-648d-4e3a-b325-c8c8fb7af641,IAMA Acoustic Showcase @ Pat's BBQ,PA System Provided,,Thursdays,155 W Commonwealth Ave Salt Lake City UT 84115,Pat's BBQ
+535,be8f56a0-c896-436a-ade9-b35b73e5baf9,Open Mic @ Alchemy Coffee,Coffee shop acoustics,,Tuesdays,390 E 1700 S Salt Lake City UT 84115,Alchemy Coffee
+536,79c7b023-44aa-4cd3-93d9-03df1ab999aa,Stage Presence Open Mic @ Clubhouse,Stage piano and guitar 1-3 mics available,,Tuesdays,850 E South Temple St Salt Lake City UT 84102,Clubhouse
+537,4ebb6f58-2e84-4f3a-af4a-845994621756,Open Mic @ Sugar House Coffee,Coffee shop acoustics,,Tuesdays,2011 S 1100 E Salt Lake City UT 84106,Sugar House Coffee
+538,3f2f3c84-7ca2-4bf1-86b9-cae226d530c7,Monday Night Open Jam @ Hog Wallow Pub,Full backline provided,,Mondays,3200 E Big Cottonwood Canyon Rd Salt Lake City UT 84121,Hog Wallow Pub
+518,91d84fb1-897c-49b8-8999-a9765f72fcb5,Open Mic @ Linneman's Riverwest Inn,PA System Provided,,Wednesdays,1001 E. Locust Street Milwaukee WI 53212,Linneman's Riverwest Inn
+519,5b111c8c-e8ed-4536-b669-ee9c506e6748,Open Mic @ The Gig,PA System Provided,,Wednesdays,1132 East Wright Street Milwaukee WI 53212,The Gig
+520,c92c66b7-e3b5-43f2-a0ad-6df9aa53c48a,Bluegrass Jam @ The Gig,Bring your own instrument,,Sundays,1132 East Wright Street Milwaukee WI 53212,The Gig
+521,702574e9-1c9b-48ff-940f-a64fb292c174,Jazz Jam @ Centro,Bring your own instrument,,First Thursdays,808 E. Center Street Milwaukee WI 53212,Centro Cafe
+523,b4b3e98a-1175-4868-a705-141a3d0ccae4,Full Band Open Jam @ Nashville North,Full backline provided,,Saturdays,1216 E Brady Street Milwaukee WI 53202,Nashville North
+524,9225f8d0-032d-4c60-96f2-716d6ea8908a,Bluegrass Jam @ Nashville North,Bring your own instrument,,Tuesdays,1216 E Brady Street Milwaukee WI 53202,Nashville North
+525,36f18a2c-6928-4442-b53d-85772537afb7,MJI Open Jam @ The Estate,Bring your own instrument,,Thursdays (Monthly),2423 N Murray Avenue Milwaukee WI 53211,The Estate
+526,9ef6f328-b516-431a-989f-51dc750d3d69,Open Mic @ Flame 13 Restaurant and Lounge,PA System Provided,,Mondays,2230 North Martin Luther King Jr Drive Milwaukee WI,Flame 13 Restaurant and Lounge
+504,77c008b8-ffad-47a7-8ede-dc25c6527b75,Bluegrass Jam @ Chicago Beef Joint,Amps and backline provided,,Wednesdays,"822 Ottawa Ave NW, Grand Rapids, MI 49503",Chicago Beef Joint
+505,0e962d84-1818-4af5-91e5-4638c899cc2c,Open Mic @ Uncommon Ground,PA system provided,,Sundays,3800 N Clark Street Chicago IL 60613,Uncommon Ground
+506,b6f88062-0e23-47b0-8f1d-b8bfaba542e2,Blues Jam @ Rosa's Lounge,Full backline drums bass amps provided,,Third Wednesdays,3420 W Armitage Ave Chicago IL 60647,Rosa's Lounge
+507,829bc6f5-f177-4020-9204-756a65aea56e,Jazz Jam @ Andy's Jazz Club,Piano drums double bass provided,,Wednesdays,11 E Hubbard St Chicago IL 60611,Andy's Jazz Club
+508,9a628211-3cac-4757-bdb8-e507fe97ccae,Jazz Links Jam @ Jazz Showcase,Full rhythm section piano drums bass provided,,Second Wednesdays,806 S Plymouth Ct Chicago IL 60605,Jazz Showcase
+509,8e03bb80-6aed-475e-b97b-b57763881e1d,Bluegrass Breakdown @ Judson Moore Distillery,Acoustic instruments,,First Sundays,3057 N Rockwell St Building 5 Chicago IL 60618,Judson Moore Distillery
+510,23a4f326-e81f-4ee7-8026-50c3b555b21d,Blues Jam @ Buddy Guy's Legends,Full backline provided,,Wednesdays,"700 S Wabash Ave, Chicago, IL 60605",Buddy Guy's Legends
+490,00bbb156-3b98-4793-99a5-9c6b02799e8e,Open Mic Jazz Jam @ VOO Lounge,House piano and full backline provided,,Wednesdays,1214 Baltimore Ave Kansas City MO 64105,VOO Lounge
+491,a4527341-5453-45b7-9d09-becb36b0da31,Free Open Jam @ Knuckleheads,Microphones and sound system provided,,Sundays,2715 Rochester Ave Kansas City MO 64120,Knuckleheads
+492,674696fe-bf57-4da7-a296-6f0a99e1db94,Blues Jam @ BB's Lawnside BBQ,Full backline provided,,Wednesdays,1205 E 85th St Kansas City MO 64131,BB's Lawnside BBQ
+493,2f87bdbf-5641-42d4-8106-f95e45e6a4e3,Song Lab Open Mic @ The Rino,PA system stage and sound equipment provided,,Mondays,314 Armour Rd North Kansas City MO 64116,The Rino
+481,b6d474ea-9e5e-4262-8eac-28bd651e269a,Open Stage @ Minnesota Music Cafe,House Band Available - PA System,,1st Wednesdays,499 Payne Ave - St. Paul - MN 55130,Minnesota Music Cafe
+479,8999a0cc-8d61-47fc-a730-1d248d116dca,Variety Open Mic @ Camp Bar,PA System Provided,,Mondays (except 1st Monday),490 N Robert St - St. Paul - MN 55101,Camp Bar
+478,bb58a026-4575-4abd-a876-098db2ce180f,Open Mic Night @ Ginkgo Coffeehouse,Acoustic Setup,,1st & 3rd Wednesdays,721 N Snelling Ave - St. Paul - MN 55104,Ginkgo Coffeehouse
+477,2ee5dea0-7d4a-494f-9104-6c15e431f374,Re-Verb Open Mic @ Flava Coffee & Cafe,PA System Provided,,Thursdays,623 University Ave W - St. Paul - MN 55104,Flava Coffee & Cafe
+471,59b4f1ca-f421-432f-b632-541ed8402ddd,Old Time Jam @ Western Cider,Bring your own instrument,,Wednesdays (1st & 3rd),501 N California St Missoula MT 59802,Western Cider
+470,c3a6404d-ceec-4865-aee8-0d6cadfd7e37,Open Mic @ The Trough,Guitar accompaniment available PA system provided,,Tuesdays,2106 Clements Rd Missoula MT 59804,The Trough
+469,bfd46fbd-9239-4df6-83c8-61c92adeee58,Bluegrass Jam @ The Old Post,Bring your own instrument,,Mondays,103 W Spruce St Missoula MT 59802,The Old Post Pub
+468,62d87d73-76fb-4a2c-9042-a3aee44e0567,Open Mic @ Flipper's Casino & Tavern,Full PA system available,,Tuesdays,125 S Third St W Missoula MT 59801,Flipper's Casino & Tavern
+466,86b65896-3e48-4dab-8fe2-bc11575d4a0b,Open Mic @ Western Cider,Microphones and PA provided,,Mondays,501 N California St Missoula MT 59802,Western Cider
+459,6a536fbb-7d55-4563-a982-f30ae36dbcc2,Jazz Night @ Mort's Martini Bar,Acoustic and small ensemble setup,,Tuesdays,923 E 1st St N - Wichita - KS 67202,Mort's Martini & Cigar Bar
+458,b6a8c8a5-ef41-4715-9830-5a8253f6125f,Jazz Jam @ Walker's Jazz Lounge,Full backline - professional sound,,Thursdays,252 N Mosley St - Wichita - KS 67202,Walker's Jazz Lounge
+456,f847aeb6-c410-4d55-bfe8-aead1de0cc20,Monday Open Jam @ Kirby's Beer Store,Full backline available - PA system,,Mondays,3227 E 17th St - Wichita - KS 67208,Kirby's Beer Store
+454,54f0a27f-456e-46da-a660-757af5cfd939,Sunday Open Mic @ Barleycorn's,Acoustic setup - PA system,,Sundays,608 E Douglas Ave - Wichita - KS 67202,Barleycorn's
+453,5c955828-32c2-4d2a-bbb7-44dc5af31bc9,Open Mic Night @ Barleycorn's,Full PA system - monitors - 18 inputs with 6 monitor mixes,,Wednesdays,608 E Douglas Ave - Wichita - KS 67202,Barleycorn's
+441,332f34af-16c7-4c1e-89b9-545b6d24982f,Open Mic @ Fox & Goose Public House,PA System - Mics - Cables provided,,Mondays,1001 R Street Sacramento CA 95814,Fox & Goose Public House
+442,5b2d212f-d909-4994-8e60-ad157eab5153,Open Mic @ Old Ironsides,PA System - Sound Engineer provided,,Wednesdays,1901 10th Street Sacramento CA 95811,Old Ironsides
+443,a4e1605a-befe-45d6-910e-37d6a44c3bc3,Open Mic @ Torch Club,PA System - Mics - Board Mix Recording available,,Wednesdays,904 15th Street Sacramento CA 95814,Torch Club
+444,6dc62b11-9c84-4240-84ae-1b62186d9245,Open Mic @ Kupros Craft House,Sound system provided,,Tuesdays,1217 21st Street Sacramento CA 95811,Kupros Craft House
+431,997d3cfe-e59c-481e-a3bd-42e39fffb22d,Old-Time Jam @ White Dog Brewing,Acoustic instruments welcome,,Mondays,705 W Fulton St - Boise ID 83702,White Dog Brewing
+432,7eb49562-5c50-4a4c-866c-d58889c7b9e4,Open Mic @ Westy's Garden Lanes,Acoustic setup available,,Tuesdays,5504 Alworth St - Garden City ID 83714,Westy's Garden Lanes
+433,a738cc22-974a-475a-b636-620f2b7579a4,Open Mic @ Boise Hive,PA and basic equipment available,,Last Wednesdays of the Month,3907 Custer Dr - Boise ID 83705,Boise Hive
+434,c46f6b78-a94a-4d1a-913d-ffa8edf77917,Gene Harris Jazz Jam @ The Hive,House rhythm section available,,Tuesdays (Monthly),3907 Custer Dr - Boise ID 83705,Boise Hive
+435,842e8d6f-27c3-47d1-827c-cbdf571283b5,Gene Harris Jazz Jam Session @ Morrison Center,House rhythm section,,Thursdays (Monthly),2201 W Cesar Chavez Ln - Boise ID 83725,Morrison Center
+422,15b3dbb7-7e09-4137-9324-8a4a2f65fc2b,Seattle's Best Open Mic @ Skylark Cafe,Gretsch house drums - Ampeg Reverb Rocket guitar amp - Yamaha G50410 guitar amp - Ashdown ABM500 bass amp - Keyboard - Shure mics - DIs,,Wednesdays,3803 Delridge Way SW Seattle WA 98106,Skylark Cafe
+423,13ada8e5-813b-4d3a-a10d-3fa6ff9bfb5b,Conor Byrne Open Mic @ Conor Byrne Pub,Full PA system - backline available,,Sundays,5140 Ballard Ave NW Seattle WA 98107,Conor Byrne Pub
+424,6254d7b7-466e-4a7c-8f55-e2b62ecf7d2e,Jazz/Blues Jam @ Kenyon Hall,House trio provided - all instruments welcome,,Final Fridays,7904 35th Ave SW Seattle WA 98126,Kenyon Hall
+425,0d4c8f64-ef30-46cb-80f8-1308ef82cfff,All Ages Jam Session @ Black and Tan Hall,House band provided,,First Sundays,5608 Rainier Ave S Seattle WA 98118,Black and Tan Hall
+412,e364179e-a242-482d-a48b-aa3f989a6fb5,Adinkra Lounge Open Mic @ Ashe Cultural Arts Center,Basic sound system,,Fridays (monthly),"1712 Oretha Castle Haley Blvd, New Orleans, LA 70113",Ashe Cultural Arts Center
+411,c77fda5f-3313-486c-b8e6-c63135011a63,Prytania Bar Open Mic @ Prytania Bar,Small PA with 2 mics,,Fridays (every other),"3445 Prytania St, New Orleans, LA 70115",Prytania Bar
+410,064e0180-fcc2-4cfe-aa2a-8484829e0a5d,Another Bar Open Mic @ Another Bar,Basic PA system,,Thursdays,"5039 Freret St, New Orleans, LA 70115",Another Bar
+409,80b90da4-434e-43f0-9d72-c52798296125,Super-Most-Fantastic-Blues-N-Such-Jam @ Cafe Negril,Full backline provided,,Tuesdays,"606 Frenchmen St, New Orleans, LA 70116",Cafe Negril
+398,3d919daa-3481-445f-9f2c-9e8ec126d863,Jazz Jam Session @ The Green Room at Crosstown Arts,Piano bass drums and professional sound system,,Third Tuesdays (Monthly),1350 Concourse Avenue Memphis TN 38104,The Green Room at Crosstown Arts
+400,18a6f7e9-1c55-4aba-8955-364edd880766,1st Sunday Jazz Jam Pop Up Series @ Center for Southern Folklore,House band with full backline,,First Sundays (Monthly),119 South Main Street Memphis TN 38103,Center for Southern Folklore
+404,57c961a2-d1aa-4edd-a577-c110cb8372eb,Sunday Blues Jam @ Wild Bill's,Full band backline,,Sundays,1580 Vollintine Avenue Memphis TN 38107,Wild Bill's
+383,bf06c8b0-3d85-4814-aa71-0a7d405b5874,Open Jam @ Herb's Hideout,Yes - drums bass guitar and PA system,,Wednesdays,2057 Larimer St Denver CO 80205,Herb's Hideout
+385,497909bf-7b92-47b0-8f13-5a7ee5038473,Monday Night Jam @ Swallow Hill Music,Limited - participants bring instruments,,Mondays,71 E Yale Ave Denver CO 80210,Swallow Hill Music
+386,30d184df-9c58-4d41-a1d7-c4eedf18f7f8,Tuesday Night Jam @ Swallow Hill Music,Limited - participants bring instruments,,Tuesdays,71 E Yale Ave Denver CO 80210,Swallow Hill Music
+388,f2e12e86-a6c6-46fc-9681-c237492038d5,Wednesday Open Mic @ Lion's Lair,Yes - drums guitar bass and PA system,,Wednesdays,2022 E Colfax Ave Denver CO 80206,Lion's Lair
+389,bcb36da7-88b6-42be-ad33-5e0341985aad,Bluegrass Jam @ Swallow Hill Music,Limited - participants bring instruments,,Sundays (4th Sunday),71 E Yale Ave Denver CO 80210,Swallow Hill Music
+390,52507b4d-8157-49f7-89ca-273fd04fbe8d,Jazz Jam @ Swallow Hill Music,Limited - drum set available with advance notice,,Sundays (2nd Sunday),71 E Yale Ave Denver CO 80210,Swallow Hill Music
+391,324b257c-0e8e-43e4-9e6b-0941d002c039,Old-Time Jam @ Swallow Hill Music,Limited - participants bring instruments,,Sundays (3rd Sunday),71 E Yale Ave Denver CO 80210,Swallow Hill Music
+392,25b6d93a-10de-404b-8e73-ac4d5ec41ef8,Irish Jam @ Swallow Hill Music,Limited - participants bring instruments,,Sundays (1st Sunday),71 E Yale Ave Denver CO 80210,Swallow Hill Music
+371,f8473e54-af10-4ed1-92c5-066b3179ae38,Jazz Jam @ Red Light Cafe,Yes - piano bass drums,,Wednesdays,553-1 Amsterdam Avenue Northeast Atlanta GA 30306,Red Light Cafe
+372,4077e80e-57af-4220-8602-ddca86807d13,Jazz Jam @ Napoleon's,Yes - full backline,,Mondays,2836 Lavista Road Decatur GA 30033,Napoleon's
+373,7ebdb137-c713-4c6c-8f10-604835bb9c8a,Blues Jam @ Napoleon's,Yes - full backline,,2nd and 4th Thursdays,2836 Lavista Road Decatur GA 30033,Napoleon's
+374,d9d8da3f-42fb-43b8-bf36-7398c0a3c0d7,Acoustic Open Mic @ Napoleon's,No amplifiers laptops or loopers - acoustic only,,2nd and 4th Tuesdays,2836 Lavista Road Decatur GA 30033,Napoleon's
+375,2ea514a1-958f-4524-b53b-4f3145df3ec8,Songwriters Open Mic @ Eddie's Attic,Yes - full sound system,,Mondays,515 North McDonough Street Decatur GA 30030,Eddie's Attic
+376,4dfc25eb-0028-4957-b953-733929e2765c,Jazz Jam @ The Waiting Room,"Yes - piano, bass & drums",,Tuesdays,674 Myrtle Street Northeast Atlanta GA 30308,The Waiting Room
+358,42602d10-0cb2-420c-a149-faafb5e31ff1,Bluegrass @ The Comet,Acoustic instruments only - no backline provided,,Sundays,4579 Hamilton Ave Cincinnati OH 45223,The Comet
+359,dbf91fd2-1ca0-43c4-8c6f-96920919b1f8,Open Mic @ Leo Coffeehouse,Sound system provided,,Sundays,2301 Indian Mound Ave Cincinnati OH 45212,Leo Coffeehouse
+360,7c7aafe5-36ee-4b28-9f9f-215e59684957,Open Jam @ Leo Coffeehouse,Bring your own acoustic instruments,,Sundays,2301 Indian Mound Ave Cincinnati OH 45212,Leo Coffeehouse
+361,d1f57462-2245-48b2-833f-9d4e9749fb35,Open Mic @ The Vault Mt Lookout,Full PA provided,,Wednesdays,3195 Linwood Ave Cincinnati OH,The Vault Mt Lookout
+362,3d7c7a05-6466-43b8-8896-6d2ef1f71ced,JAMII Community Open Mic @ Fountain Square,Professional sound system provided,,Wednesdays,520 Vine St Cincinnati OH 45202,Fountain Square
+364,f32fb4ed-45de-4d73-871e-2e670d2f47c6,Bluegrass Night @ Arnold's,Courtyard stage with amplification,,Wednesdays,210 E 8th St Cincinnati OH 45202,Arnold's Bar and Grill
+357,2b1db4b2-aef1-4829-8d12-03c896976a93,Open Mic @ MOTR Pub,Full PA system and professional sound engineers,,Tuesdays,1345 Main St Cincinnati OH 45202,MOTR Pub
+347,4cf440ec-4e54-4fe3-8761-1887bda534b8,Open Mic @ Brothers Lounge - Front Stage,Full Backline,,Wednesdays,"11609 Detroit Ave, Cleveland, OH 44102",Brothers Lounge
+345,3fb44d79-630e-41ce-9145-5b13aa13e298,BOP STOP @ The Music Settlement,Yes - professional backline,,Weekly on Fridays,"2920 Detroit Ave, Cleveland, OH 44113",The Music Settlement
+342,cec27b88-6557-471d-a37e-d456c99fdddb,Open Bluegrass Jam @ Goodwood Brewing,No - BYO acoustic instruments,,Saturdays,636 E Main Street Louisville KY,Goodwood Brewing
+341,f1c5b3c7-e373-442a-9f7c-0b544ee8a21d,Jazz Jam & Potluck @ The Monarch,Piano bass drums and small vocal PA provided,,Sundays (2nd & 4th),1318 Bardstown Road Louisville KY,The Monarch
+337,b6a7283c-d2e8-4502-bdcc-9ada5bcb3c3a,Saturday Open Mic @ Opening Bell Coffee,Yes - Professional sound system Allen & Heath board monitors mics,,Saturdays,1409 Botham Jean Boulevard Dallas TX 75215,Opening Bell Coffee
+336,d7004c28-0601-497b-b523-1bc17e9611d9,Bay Area Bluegrass Show & Jam @ Webster Civic Center,Acoustic instruments and jam rooms available,,3rd Saturdays Monthly,"311 Pennsylvania Ave, Webster, TX 77598",Webster Civic Center
+335,b706210c-a05f-497d-904a-ce328825da25,Open Mic Night @ McGonigel's Mucky Duck,Yes - PA with mics and cables,,Mondays,2425 Norfolk St Houston TX 77098,McGonigel's Mucky Duck
+322,a1f7dd09-a22f-4914-88de-df6f34bb48f2,Acoustic Open Mic @ AvantGarden,PA system with mics and cables,,Tuesday,411 Westheimer Rd Houston TX 77006,AvantGarden
+332,16150ed9-d309-43fb-b436-5662a2f0f777,Acoustic Jam @ Last Concert Cafe,Varies,,Sundays,1403 Nance St Houston TX 77002,Last Concert Cafe
+317,469a68d3-c36d-4b3b-9e36-d9fbc4e0d077,Open Mic Night @ Dallas Central Library,Limited - Basic sound setup,,Thursday (3rd Thursday),1515 Young Street Dallas TX 75201,J. Erik Jonsson Central Library
+315,abdcb184-fefd-44b7-9b77-698df966bcf5,Songwriters Social @ Adair's Saloon,Yes,,Tuesdays,2624 Commerce Street Dallas TX 75226,Adair's Saloon
+312,44fe9976-f756-4adb-8708-4f619dae0d44,Tuesday Night Jazz Jam @ Sandaga 813,Yes - Professional backline,,Tuesdays,813 Exposition Avenue Dallas TX 75226,Sandaga 813
+299,73a6be01-3c02-4e0b-b155-0fd2e2e0e8c7,Bluegrass Jam @ Luka BBQ Steakhouse,No - acoustic instruments BYO,,Tuesdays,17052 Saturn Ln Houston TX 77058,Luka BBQ Steakhouse
+304,c48c4ae4-f70f-46d5-af6a-3249aac34e05,Bluegrass Rising Jam @ Good Shepherd Church,No - acoustic instruments BYO,,Monday,20155 Cypresswood Dr Cypress TX 77433,Good Shepherd Church
+287,66cdc47d-0f49-430d-a962-246f5365e440,Wednesday Blues Jam @ 1860s Hardshell Cafe,PA and backline provided,,Wednesdays,1860 S 9th St Saint Louis MO 63104,1860s Hardshell Cafe
+283,2a22744e-e312-4fdf-8e4e-c71e045ab0ad,Open Mic @ Pop's Blue Moon,3-piece house band (electric sets),,Tuesdays,5249 Pattison Ave Saint Louis MO 63110,Pop's Blue Moon
+277,9afc2225-79d6-4aef-92dd-e73d61b16b0e,Monday Night Open Mic,PA system provided,,Monday,1903 Pestalozzi St Saint Louis MO 63118,Venice Cafe
+275,a3c02f2c-08b8-40c7-ae98-fa5e90a87f39,Blues Jam @ Broadway Oyster Bar,Full backline - drums bass keys,,Mondays,736 S Broadway Saint Louis MO 63102,Broadway Oyster Bar
+268,bc42bfe4-0aad-4a54-a4cf-7f43f0d11c59,The Institute Library Third Thursday Poetry Open Mic,Full Backline,,Third Thursday Monthly,"847 Chapel St, New Haven, CT 06510",The Institute Library
+266,d88a9da1-2494-4aec-99f0-266ae4397cfc,Cafe Nine Saturday Afternoon Jazz Jam,Full Back Line,,Saturdays,"250 State St, New Haven, CT 06510",Cafe Nine
+264,e26f4f0b-363a-4302-8b81-4be308456a9d,Stella Blues Tuesday Night Open Mic,,,Tuesdays,"204 Crown Street, New Haven, CT 06510",Stella Blues
+263,caa82db9-9e94-4773-b234-1c0fc24b8a21,Esmeralda's Acoustic Open Mic Night,None - Acoustic Open Mic,esmeraldasopenmic@gmail.com,Every Second and Fourth Friday of the Month,"1515 North Point Drive #108 Durham, NC",Esmeralda's Cafe
+255,adbd15d2-026a-46cf-a97b-a2f74656229f,Open Mic @ Fox & Locke (Franklin),,,Thursdays,"4142 Old Hillsboro Rd, Franklin, TN 37064",Fox & Locke (Franklin)
+254,1778bd45-ad0f-4aaa-b16e-3cb671d9a6d3,Song Suffragettes @ Listening Room Cafe,,,Mondays,"618 4th Ave S, Nashville, TN 37210",Listening Room Cafe
+253,f661a67b-31ce-4a55-b0ff-411444a89b7d,Songwriter Showcase @ Commodore Grille,,,Mondays - Fridays,"2613 West End Ave, Nashville, TN 37203",Commodore Grille
+252,50002e5f-6de4-46ec-9da3-e5810fd0fede,Sam's Jams @ Bobby's Idle Hour Tavern,,,Wednesdays,"9 Music Square S, Nashville, TN 37203",Bobby's Idle Hour Tavern
+251,e60688b2-ac64-4606-a03b-fa8f54db99d2,Open Mic @ Station Inn,,,Sundays,"402 12th Ave S, Nashville, TN 37203",Station Inn
+250,d1129916-364d-4a09-b18b-39d247e28e24,Open Mic @ Tennessee Brew Works,,,Mondays,"809 Ewing Ave, Nashville, TN 37203",Tennessee Brew Works
+247,e217a9eb-8e90-4d2b-be04-356450977d1a,Open Mic @ The Bluebird Cafe,,,Monday,"4104 Hillsboro Pike, Nashville, TN 37215",The Bluebird Cafe
+243,d6e33f47-0314-4c88-9893-5900de617d94,Open Mic @ The Chill Room,,,Fridays,"1320 E Broadway Rd suite 108, Tempe, AZ 85282",The Chill Room
+241,9067cf76-58a3-4ba8-8843-8f0f266b56d4,"Monthly Blues, Jazz & More",,,First Thursday Monthly,"17045 N 59th Ave, Glendale, AZ 85308",Westside Blues and Jazz
+239,b2d48d89-fbce-41c1-b4f9-db50e7daecd8,Pita Jungle Jazz Jam (Chandler),,,Thursdays,"1949 W Ray Rd Ste 102, Chandler, AZ 85224",Pita Jungle
+237,7bfa8250-6397-4c45-af92-35152503ad6b,Sunday Jazz Jam @ The Nash Jazz Club,,,Sundays,"110 E Roosevelt St, Phoenix, AZ 85004",The Nash Jazz Club
+235,14a079c3-d16e-4d4b-8f52-ce4ca47a215c,Open Mic Monday @ Yucca Tap Room,,,Mondays,"29 W Southern Ave, Tempe AZ 85282",Yucca Tap Room
+234,ac8c60e0-bfd7-4efb-8246-4478bc989dbd,Open Mic Night for Musicians at The Collective,,,Thursdays,"1261 Garnet Ave, San Diego, CA 92109",The Collective
+221,2532839a-d58f-4e2e-91e8-b94436b990e9,Peppers Live,,,Saturday,"28 Braddock Ave, Braddock, PA 15104",Peppers N'at
+222,424724de-226c-4865-b6c9-9c5d22450eb5,Second Saturdays Improv,,,Saturday,"214 N Lexington St, Pittsburgh, PA 15208",The Space Upstairs
+220,efcb21f6-f192-4747-a04e-51e1ae11c880,The Cellar Sessions,,,Friday,"2815 Penn Ave, Pittsburgh, PA 15222",Pittsburgh Winery
+219,ba51c901-e6f3-4d4f-aed8-f9533ed7b0cd,AAMI Performance Series,,,Saturday,"7131 Hamilton Ave, Pittsburgh, PA 15208",Afro American Music Institute
+217,a7f73506-a4b2-435f-a0ea-ac3502a71866,Cousins Live Jam,,,Thursday,"203 Grant Ave, Millvale, PA 15209",Cousins Lounge
+216,099ce3d5-8b9e-4690-99af-3b917bd9be52,De Fer After Dark Music,,,Friday,"2002 Smallman St, Pittsburgh, PA 15222",De Fer Coffee & Tea
+214,1060daa2-64aa-40b2-9dda-b30f32e91158,Live at the Beer Garden,,,Sunday,"337 E 8th Ave, Homestead, PA 15120",Golden Age Beer Company
+215,595c778b-ef1b-49a7-8354-8034cc27b763,Genuine Open Mic,,,Wednesday,"Verona, PA",Genuine Pub
+213,7dc1302d-dd16-4fa6-b355-65fc69a743c5,Community Arts Showcase,,,Saturday,"1256 Franklin Ave, Wilkinsburg, PA 15221",Community Forge
+212,05cc098f-c9ef-4b3e-a152-3280ac6e9b0a,Scarpaci's Open Mic,,,Thursday,"307 Shiloh St, Pittsburgh, PA 15211",Scarpaci's Place
+210,0c24a4d2-dab4-4e81-8325-5ba86754d6d8,Madam's Organ Open Mic,,,Wednesday,"2461 18th St NW, Washington, DC 20009",Madam's Organ
+208,d083fbbb-e711-46a4-8027-555042cb8428,Harlym Blue'Z Jam Session,,,Wednesday,"Abingdon, MD",Harlym Blue'Z
+207,8bc48740-024c-4016-9671-37957e3828e2,Manor Mill Open Mic,,,Sunday,"2029 Monkton Rd, Monkton, MD 21111",Manor Mill
+209,3e53aef1-d48d-42ec-bb7b-e43a76e0b6d0,Spruceberry Farm Barn Jam,,,Saturday,"Maryland, USA",Spruceberry Farm
+206,6117573b-0ab6-453d-a485-04e1c14ea9de,Red Lion Live Music,,,Monday,"151 Bleecker St, New York, NY 10012",The Red Lion
+205,f785a007-89d5-4a53-b0ba-769de4d926e2,Shrine Sunday Jazz Jam,,,Sunday,"2271 Adam Clayton Powell Jr Blvd, New York, NY 10030",Shrine World Music Venue
+204,5b18ada7-2373-4a84-863f-e167c9c5f04f,Pete's Candy Store Open Mic,,,Sunday,"709 Lorimer St, Brooklyn, NY 11211",Pete's Candy Store
+203,1db2ab6c-bb07-4a82-a29b-89ac5cbd2f6b,The Bitter End Jam Session,,,Monday,"147 Bleecker St, New York, NY 10012",The Bitter End
+202,84071b55-fedc-442b-b31a-d3882c2ba83b,Ortlieb's Open Mic,,,Tuesday,"847 N 3rd St, Philadelphia, PA 19123",Ortlieb's
+199,c06683ad-234f-4df8-aca4-e9c01aee2982,Red Lion Late Night Jam,,,Monday,"151 Bleecker St, New York, NY 10012",The Red Lion
+197,456d4c96-f927-4ff1-ab1e-879400c619e7,Shrine Jazz & Afrobeat Jam,,,Tuesday,"2271 Adam Clayton Powell Jr Blvd, New York, NY 10030",Shrine World Music Venue
+195,e493de07-6f67-4c95-a7c8-f848ab6dbe42,Pete's Candy Store Sunday Open Mic,,,Sunday,"709 Lorimer St, Brooklyn, NY 11211",Pete's Candy Store
+191,8efaf729-3ead-4059-8897-5742bc0e8e5c,Sugar Bar Open Mic Thursdays,,,Thursday,"254 W 72nd St, New York, NY 10023",Ashford & Simpson's Sugar Bar
+189,552b5877-ab73-4b2f-9ae2-cca1027393a5,The Bitter End Monday Jam,,,Monday,"147 Bleecker St, New York, NY 10012",The Bitter End
+186,0b441ca8-09c0-44f8-bd4f-dee3b2940491,Open Mic Night at Opa,,,,"2050 S Lamar Blvd, Austin, TX 78704",Opa Greek Cafe
+184,882cf888-6e37-4b38-b05f-77196e39a674,Raven_Test_Jam,,,,"123 Internet Blvd, Austin, TX",The Virtual Stage
+170,7ec2fe76-74f4-41de-acf9-c2b5bcdf6c50,Open Mic Night @ Club Cafe,Unknown,,Wednesdays,"56 South 12th Street, Pittsburgh, PA 15203",Club Cafe
+171,2f6f59ed-ff64-4437-a407-62a696f632a5,Mystery Musik Monday @ Club Cafe,Unknown,,Mondays,"56 South 12th Street, Pittsburgh, PA 15203",Club Cafe
+172,2133b353-a89a-49b3-9ac9-53538733df40,Open Mic Music @ Scarpaci's,Unknown,,Mondays,"307 Shiloh Street, Pittsburgh, PA 15211",Scarpaci's
+174,5ba1b742-7910-4c1f-99eb-88c69934a131,Open Stage Night @ Community Forge,Unknown,,Third Friday of Month,"1256 Franklin Avenue, Wilkinsburg, PA 15221",Community Forge
+175,e3ddda6c-7df9-4ae8-961e-09eece936c94,Tony Campbell Jazz Jam @ Golden Age Beer Company,Full Backline,,Saturdays,"415 E 8th Avenue, Homestead, PA 15120",Golden Age Beer Company
+176,2eb2fa26-6e08-42f4-a599-2dd277a31c58,Smooth Jam @ Genuine Pub,Full Backline,,Tuesdays,"733 Allegheny River Boulevard, Verona, PA 15147",Genuine Pub
+177,355061ba-b7e0-4208-a39c-2d4d8adad81d,Jazz Jam @ De Fer Coffee & Tea,Unknown,,First Thursday of Month,"2002 Smallman Street, Pittsburgh, PA 15222",De Fer Coffee & Tea
+182,6e192047-137a-41d5-8a9a-646a1df525ee,Live Jazz @ The Space Upstairs,Unknown,,Second Saturday of Month,"7101 Apple Street, Suite 2, Pittsburgh, PA 15208",The Space Upstairs
+181,b250801a-f1d7-436d-b544-b29dea93228f,Roger Barber Live @ Peppers N'at,Full Backline,,Thursdays,"801 Braddock Avenue, Braddock, PA 15104",Peppers N'at
+180,fc724562-0516-43ee-9874-c7d4678da7dd,Jazz Jam @ Pittsburgh Winery,Unknown,,Second Thursday of Month,"2815 Smallman Street, Pittsburgh, PA 15201",Pittsburgh Winery
+173,abf0b539-98bb-4bef-ba6c-6c90693fecb5,Open Mic Comedy @ Scarpaci's,,,Wednesdays,"307 Shiloh Street, Pittsburgh, PA 15211",Scarpaci's
+179,08fc0fa4-918c-4d9b-8ebf-7ab42be697b2,Jazz at the Loading Dock @ AAMI,Full Backline,,First Saturday of Month,"7101 Apple Street, Pittsburgh, PA 15208",Afro American Music Institute (AAMI)
+178,83ef9f29-f9eb-493e-bdb6-c9223e2079ea,Jazz Jam @ Cousins Lounge,Unknown,,Second Friday of Month,"401 Grant Avenue, Millvale, PA 15209",Cousins Lounge
+144,9a05dffb-bbfd-4e10-b04d-4b2531f7c0d9,Open Mic @ Bond Brothers Eastside,Full Backline,,Wednesdays,"602 E Chatham St, Cary, NC 27511",Bond Brothers Eastside
+141,f5e9ecb4-5adb-4c41-a317-908446301cd5,Open Mic @ The Residency,,,3rd Wednesday Monthly,,The Residency - The Yard Private Social Club
+138,a2ec0559-a7f8-4da2-bfef-252388a1f1eb,Jazz Jam @ Clement's Place,Full backline,,Varies Monthly,"15 Washington St, Newark, NJ 07102",Clement's Place
+137,8ef32abe-efc0-4f44-9515-44f3617b3087,Evolution Dopen Mic @ NJPAC Center,,,Satuday Monthly,"24 Rector St, Newark, NJ 07102",NJPAC Center for Arts Education
+135,faa53fe0-492e-4758-99c8-d9675fb198dc,Open Mic @ Newark Symphony Hall,Yes,,2nd Tuesday Monthly,"1020 Broad St, Newark, NJ 07102",Newark Symphony Hall
+134,09e90fb2-d682-4e78-a390-7756f7dfa79a,Open Mic @ The Royal Music & Arts Center,Full Backline,,Wednesdays,"1 S Easton Rd, Glenside, PA 19038",The Royal Music & Arts Center
+132,0aef1e01-d0a2-4a54-8e2c-bd677135506a,Open Mic @ Dawson Street Pub,,,Wednesdays,"100 Dawson St, Philadelphia, PA 19127",Dawson Street Pub
+129,8e00fe02-a697-4997-916d-eecd9b2b9444,Open Mic @ The Fire Philly,,,Mondays,"412 W Girard Ave, Philadelphia, PA 19123",The Fire
+127,c74a3cb7-6f02-40d5-80a9-3c2996340657,Open Jam @ Cheshire Brewing Company,,,Tuesdays,"909 High School Rd, Elkins Park, PA 19027",Cheshire Brewing Company
+123,6a4efc3d-a83e-41d4-9da8-3b20680b3519,Open Mic @ The Fallser Club,,,Last Sunday Monthly,"3721 Midvale Ave, Philadelphia, PA 19129",The Falser Club
+121,a34262fa-61e6-42b7-bdb0-fa6c43c2a5a2,Jazz Jam Session @ Chris' Jazz Cafe,,,Fridays,"1421 Sansom St, Philadelphia, PA 19102",Chris' Jazz Cafe
+119,f95324b5-4f03-4d50-95fd-c7972a4821db,Open Mic @ World Cafe Live,,,First Tuesday Monthly,"3025 Walnut St, Philadelphia, PA 19104",World Cafe Live
+117,b94bd198-4fa2-4c93-941e-c3f893e9740a,Open Mic @ Fergie's Pub,Acoustic,,Mondays,"1214 Sansom St, Philadelphia, PA 19107",Fergie's Pub
+115,9766e763-4536-4037-9373-6260b753bfc6,Open Mic @ Ortlieb's,full backline,,Tuesday,"847 N 3rd St, Philadelphia, PA 19123",Ortlieb's Philly
+113,8c0d401d-853a-4fcc-ab5c-ccbe711a45a0,Open Mic @ MilkBoy South Street,Full Backline,,Tuesdays,"401 South St, Philadelphia, PA 19147",MilkBoy South Street
+110,f4a1c99c-70df-4c96-8113-7670a127a848,Jazz Jam @ Black Squirrel Club,Full Professional Backline,,Mondays,"1049 Sarah St, Philadelphia, PA 19125",Black Squirrel Club
+107,48a39d11-b375-4b67-9c1a-ebecfb74f5b1,Jazz Jam @ Haydee's,,,Sundays,"3102 Mount Pleasant Street NW, Washington, DC 20010",Haydee's
+105,11296dfd-798e-48db-b6f2-09370fba3369,Acoustic Open Mic @ Doubles DC,single mic and speaker,,Thursdays,"3118 Georgia Ave NWWashington, DC, 20010",Doubles
+103,85f3d08c-bc6d-4670-8354-c75f6912366b,The Pocket Open Mic @ 7DrumCity,Full Backline,,Tuesdays,"1508 North Capitol St NW, Washington, DC 20002",7DrumCity
+101,6a767efa-0400-4a0c-af0d-2e34a388934c,Open Mic @ Madam's Organ,Full Backline,,Wednesday,"2461 18th St NW, Washington, DC 20009",Madam's Organ
+99,ae076f61-a9c9-461b-be53-b766abf8fb66,Jazz Jam @ Mr. Henry's,,,Wednesdays,"601 Pennsylvania Ave. SE, Washington, DC 20003",Mr. Henry’s
+98,602401bb-b58a-44f5-9a36-6b20832298de,Open Mic @ Jimmy's Old Town Tavern,,,Wednesdays,"697 Spring Street, Herndon, VA 20170",Jimmy's Old Town Tavern
+96,db397bd7-7408-4ea3-9931-e15260f3cf8d,Open Mic @ 2 Witches,,,Sundays,209 Trade Street Danville VA 24541,2 Witches Winery & Brewing Co.
+93,c0b0fc49-8c5d-426e-8496-50fe93d54cf9,Open Mic @ Chester Junction,,,Thursdays,"11931 Centre St Chester, VA 23831",Chester Junction
+91,25c6fdba-ef20-480b-9559-b3570d9e2990,Open Mic @ Spruceberry Farm,,,Wednesday,"15900 Spruceberry Farm Dr, Sparks Glencoe, MD 21152",Spruceberry Farm
+88,7494eda5-4bbe-4d87-889a-0d697e4cb391,Open Jam @ Harlym Blue'z,Full Backline,,Thursday,"6245 Reisterstown Rd, Baltimore, MD 21215",Harlym Blue'Z
+84,b88c0972-95ec-44ca-8481-a26ada94a3e4,Old-Time Jam @ Hardywood Park Craft Brewery,,,2nd and 4th Wednesday,2410 Ownby Lane Richmond  VA 23220,Hardywood Park Craft Brewery
+83,e38d0df8-b450-4434-b5d5-723f2ddd2429,Funk + Soul Open Jam @ Révéler,Full Backline,,Tuesdays,"3108 W Cary St Richmond, VA 23221",Révéler
+81,4401756c-5212-4586-98b0-1992a9250044,Jazz Jam @ Révéler,Full Backline,,Sundays,"3108 W Cary St Richmond, VA 23221",Révéler
+79,8ca26589-b85b-45d2-8023-e6bd03d150cd,Open Mic @ The Camel,Acoustic Backline,,Last Wednesday Monthly,"1621 W Broad St, Richmond, VA, 23220, US",The Camel
+77,0cce89e8-d43d-4d84-ab55-a6fbdd952d6e,Old Time Jam @  Manor Mill,,,Sunday,"2029 Monkton Rd, Monkton, MD 21111",Manor Mill
+76,cdf3116d-ae0d-47a3-839e-7653479e4462,Bluegrass Jam @ The Bluebird,,,Every other Tuesday,3602 Hickory Ave Baltimore MD 21211,The Bluebird
+75,a88fa15f-cb84-47d6-871f-d1bd431bae1d,Django Jazz Jam @ The Bluebird,,,Mondays,3602 Hickory Ave Baltimore MD 21211,The Bluebird
+73,179374d9-44eb-43e1-ba25-7486d887a9db,Old Time Jam @ The Green Room at The Bluebird,,,Every other Tuesday,3602 Hickory Avenue Baltimore MD 21211,The Bluebird
+64,b5b99176-00cb-4b11-95b6-a230efed0cab,Open Mic @ Bartini's in Babylon,"Full Back Line with Drums, Amps, Guitars & PA",,Mondays,Babylon NY (Nassau County Long Island),Bartini
+63,302fd3ab-bbe0-4e4d-b63c-cfd614789dc9,Nothin' But the Blues Jam,House band/backline,,Tuesdays,"105 F, 105 Montreat Rd #105f, Black Mountain, NC 28711",Local Asheville venue (rotating)
+61,41a5bec3-eb7a-4cf5-ae12-a67a33ab7334,International Jazz Open Jam @ Neptune's Parlour,varies,,3rd Tuesday Monthly,"14 W Martin St, Raleigh, NC 27601",Neptune's Parlour
+59,6b46a2aa-0db6-43b7-af23-5b99ec44db44,Blues Jam @ Speakeasy Carrboro,Backline provided,,Tuesday,"100-F N Greensboro St, Carrboro, NC",Speakeasy Carrboro
+57,59e25e09-8e31-4805-8e0d-3ce446bb0724,Blues Jam @ Blue Note Grill,House backline often provided,,Tuesdays,"709 Washington St, Durham, NC",Blue Note Grill
+55,bd11389e-3945-4d77-94a7-79804f846eb3,Jazz Jam @ Bond Brothers Eastside,House piano and kit provided,,Thursdays,"602 E Chatham St, Cary, NC 27511",Bond Brothers Eastside
+33,f48e38e2-f735-49c7-aac4-ab509445375e,Open Mic @ Starlight on 22nd,No,,Wednesdays,"422 E 22nd St, Charlotte, NC 28206",Starlight on 22nd
+32,2fc65466-20e5-4d3d-9cfc-f63238ae9213,Open Mic @ Cabarrus Brewing Company,No,,Every other Thursday Monthly,"329 McGill Ave NW, Concord, NC 28027",Cabarrus Brewing Company
+31,5b8f31b9-88e1-4fac-8e28-8e023269b3ed,Open Mic @ Old Armor Beer Company,No,,Mondays,"211 West Ave, Kannapolis, NC 28081",Old Armor Beer Company
+30,61efa203-d7ec-407b-bdcb-229ee3961a84,Open Mic @ The Fainting Goat,No,,Sunday,"330 S Main St. Fuquay Varina, NC 27526",The Fainting Goat Brewing Company
+29,8468796a-c2a7-403c-bcf6-5cd649fb6b22,Open Mic @ Snookers Billiards,No,,Mondays,"3520-B, Wade Ave, Raleigh, NC 27607",Snookers Billiards
+28,9f0b2ef3-d026-466f-95d5-eb6e6978acdb,Open Mic @ Scooters Bar & Grill,No,,Mondays,"1911 Sego Ct, Raleigh, NC 27616",Scooters Bar & Grill Raleigh
+27,dd6ab44c-9690-4f83-b482-ffca3c462c5e,Open Mic @ Gizmo Brew Works,No,,Sundays,"5907 Triangle Dr, Raleigh, NC 27617",Gizmo Brew Works - Brewery & Taproom
+26,b87dc020-4e26-4ea3-9873-efc40084cbac,Open Mic @ ZincHouse Winery,No,,Sundays,"6225 Wake Forest Hwy, Durham, NC 27703",ZincHouse Winery & Brewery
+25,8031fc2c-a382-4ec0-b303-57c960c88aff,Open Mic @ Social Habit,No,,Tuesday,"242 N Main St, Kernersville, NC 27284",Social Habit
+24,db760024-1230-4d12-be2a-b10fa82820c8,Open Mic @ Smash Masters,No,,Wednesday,"409 W. Gannon Ave. Zebulon, NC 27597",Smash Masters
+23,74dbf105-354f-4fdd-9774-9328e4e76c19,Acoustic Open Mic @ Clouds Brewing,No,,Sundays,"1233 Front Street, Raleigh NC",Clouds Brewery & Taproom
+22,06e38474-f34e-490b-af3e-ddccfaa932c7,Open Mic @ The Williams House,No,,Tuesdays,"210 E Chatham Street, Suite 100 Cary NC 27511",The Williams House Craft Taproom
+21,2c98129a-03f5-48cc-958f-83ad93a095de,Open Mic @ Hangout Bar & Grill,No,,Tuesdays,"107 Edinburgh S Dr suite 129 Cary, NC 27511",Hangout Bar & Grill
+20,2b7fbb51-6850-4a08-ad28-9b3c5eccf01b,Open Mic @ Zin Yoga Studio,No,,Last Fridays Monthly,"104 Rand Mill Rd, Garner, NC 27529",Zin Yoga Studio & Wine Lounge
+19,4434f333-220a-492d-b8ff-ba941a939fbb,Open Mic @ Pluck Farm,No,,Thursdays,Pluck Farm  6901 NC-54 West,Pluck Farm (Steel String Brewery)
+18,cf458137-4223-49ce-aefb-50c178e285c3,Open Mic @ Steel String Brewery,No,,Mondays,"106A S. Greensboro St. – Carrboro, NC 27510",Steel String Brewery Taproom
+17,1d7cd255-69ea-4933-bf8b-8849a4aeb154,Acoustic Open Mic @ Berkeley Cafe,No,,Wednesdays,"428 S Dawson St, Raleigh, NC 27601",Berkeley Cafe
+15,8f963e3f-e60f-4cb7-8ca8-602f3416546e,Acoustic Open Mic @ Ruckus Pizza Cary,No,,Saturday,"8111 Tryon Woods Dr, Cary, NC 27511",Ruckus Pizza Cary
+14,63d60fe1-8a76-492b-b9e0-b6bc9c4da547,Open Mic @ Hero's Pub,,,Wednesdays,"7440 Six Forks Rd, Raleigh, NC 27615",Hero's Pub
+13,2d3ec6ad-4205-48eb-b21c-5eaeda90282d,Open Mic @ Ruckus Pizza,,,Tuesdays,"2233 Avent Ferry Rd, Raleigh, NC 27606",Ruckus Pizza Mission Valley
+12,4d948b58-16ea-4588-95c6-2b75977fa479,Open Mic @ Aviator Hangar Bar,Cocktail Drums & PA,,Thursdays,"688 Brewing Drive Fuquay Varina, NC 27526",Aviator Hangar Bar
+11,86e70879-84d5-415a-be6c-fa3f78f06084,Open Mic @ Abbey Road,No,,Wednesdays,"1195 W Chatham St, Cary, NC 27513",Abbey Road Tavern & Grill
+10,56835112-6847-4de3-8a5e-bc680bcb7e31,Open Mic @ Speakeasy Carrboro,No Backline but Great Sound System,,Mondays,"100 E Main St A&B, Carrboro, NC 27510",Speakeasy Carrboro
+9,a85a1be2-e6d1-4dd3-856f-5facd415be0e,Open Mic @ Gatsby's Bar,"Full Back Line with Drums, Amps, Guitars & PA",,Fridays,"6109 Maddry Oaks Ct, Raleigh, NC 27616",Gatsby's Bar Raleigh
+7,de4575d5-d163-411a-8893-5edbb5e1bf53,Open Jam @ The Brick in Fuquay,Full Back Line,,Thursdays,"213 Fayetteville St, Fuquay-Varina, NC 27526",The Brick Fuquay
+3,0b14d091-3f95-4e6e-8f6f-abe5238021f9,Open Mic/Jams @ The Corner Tavern,"Full Back Line with Drums, Amps, Guitars & PA",,Thursdays,"1301 NW Maynard Rd, Cary, NC 27513",The Corner Tavern
